@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://www.example.com](https://www.example.com)
+- 👨‍💻 All of my projects are available at [https://martinn.uy/](https://martinn.uy/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
